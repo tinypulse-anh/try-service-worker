@@ -1,9 +1,9 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
-  '/',
-  '/styles/bootstrap.css',
-  '/scripts/jquery.js',
-  '/scripts/bootstrap.js'
+  '/try-service-worker/',
+  '/try-service-worker/styles/bootstrap.css',
+  '/try-service-worker/scripts/jquery.js',
+  '/try-service-worker/scripts/bootstrap.js'
 ];
 
 self.addEventListener('install', function(event) {
