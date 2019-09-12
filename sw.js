@@ -1,4 +1,5 @@
-var CACHE_NAME = 'my-site-cache-v1';
+// var CACHE_NAME = 'my-site-cache-v1';
+var CACHE_NAME = 'pages-cache-v1';
 var urlsToCache = [
   '/try-service-worker/',
   '/try-service-worker/scripts/jquery.js'
